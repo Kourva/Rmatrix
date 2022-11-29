@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 # Matrix Generator in R language
-# https://github.com/MemeSec/Rmatrix
+# https://github.com/Izolabela/Rmatrix
 
 # Main function
 main <- function(){
