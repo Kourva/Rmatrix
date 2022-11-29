@@ -7,7 +7,7 @@ Simple script to generate matrix in R language
 # Install
 + Clone 
 ```bash
-git clone https://github.com/MemeSec/Rmatrix && cd Rmatrix && chmod +x Matrix.r
+git clone https://github.com/izolabela/Rmatrix && cd Rmatrix && chmod +x Matrix.r
 ```
 + Run (2 ways)
 ```bash 
